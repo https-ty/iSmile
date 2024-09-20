@@ -155,6 +155,15 @@ h3 {
   text-align: center;
 }
 
+#about,
+#services,
+#doc-panel{
+    scroll-margin-top: 80px;
+  }
+#contact{
+    scroll-margin-top: 110px;
+}
+
 /* header */
 .header {
   min-height: 100vh;
